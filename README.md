@@ -1,4 +1,4 @@
-# Projeto Responsivo
+# Projeto Responsivo We Care
 
 Este projeto demonstra como criar um layout responsivo que funciona bem tanto em telas grandes, como computadores, quanto em telas pequenas, como celulares. Utilizamos apenas HTML e CSS para garantir a melhor experiência do usuário em diferentes dispositivos.
 
