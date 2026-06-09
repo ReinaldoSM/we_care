@@ -19,3 +19,7 @@ O objetivo é construir uma página web que se adapte automaticamente ao tamanho
 - Navegação adaptável para dispositivos móveis e desktop
 
 - Testado em navegadores modernos
+
+- Dê uma olhada:
+
+- Link:  https://reinaldosm.github.io/we_care/
